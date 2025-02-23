@@ -8,8 +8,6 @@ This is my new account, you can find the old one [here](https://github.com/NotYo
 
 Personal list of upcoming or work-in-progress projects:
 
-- [Deltaworld](https://github.com/TheCheese42/deltaworld)
 - PjZ (Private)
-- [Discord Bot Engine](https://github.com/TheCheese42/discord-bot-engine)
 - [TS2 Guide](https://github.com/TheCheese42/ts2-anniversary-guide)
 - [Microstation](https://github.com/TheCheese42/microstation)
